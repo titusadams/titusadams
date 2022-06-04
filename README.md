@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @titusadams
 - 👀 I’m interested in DATA!
-- 🌱 I’m currently learning R programming
+- 🌱 I’m currently learning Python and R 
 - 📫 Find me on twitter @WestsideData
 
 <!---
